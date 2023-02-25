@@ -5,13 +5,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ------------------------
 
 I am a self-motivated designer with a passion for learning and a desire to create functional user friendly websites that meet client specifications.
+I recently began my web development journey and I am looking forward to meeting new people here, learning and collaborating on all kinds of projects.
 
-*   🌍  I'm based in Nigeria
+*   🧠  I'm currently learning Ultimate Web Designer & Web Developer Course by Brad Hussey
+*   ⚡  I am also an architect and interior designer and I am deeply passionate about solving problems with design.
+*   🤝  I'm open to collaborating on All kinds of Projects.
 *   ✉️  You can contact me at [etiobikamsi@gmail.com](mailto:etiobikamsi@gmail.com)
-*   🧠  I'm learning Ultimate Web Designer & Web Developer Course by Brad Hussey
-*   🤝  I'm open to collaborating on All kinds of Projects
-*   ⚡  I am also an architect and interior designer. I am deeply passionate about solving problems with design.
- 
+
   <br> 
  <a href="https://www.github.com/kamsiyonna" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/kamsiyonna?logo=github&style=for-the-badge&color=64748b&labelColor=0f172a" /></a> 
