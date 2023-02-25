@@ -47,10 +47,12 @@ I recently began my web development journey and I am looking forward to meeting 
 
 <a href="https://github.com/kamsiyonna" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamsiyonna&langs_count=10&title_color=ffffff&text_color=14b8a6&icon_color=64748b&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### |*Top Repositories*|
-<b>Top Repositories</b>
+### |*Git Portfolio*| 
+|<a href="https://kamsi-yonna.github.io/UrbanFashionSite/"> URBAN_FASHION_STORE </a> | <a href="https://kamsi-yonna.github.io/SMI-Hover-effect/"> SMI_HOVER_EFFECT </a>|
+|-- | -- |
+|<img  align="left"  width="380px" src="https://github.com/Kamsi-yonna/UrbanFashionSite/blob/main/urban.png">   | <img  align="left"  width="380px" src="https://kamsi-yonna.github.io/SMI-Hover-effect/smi.png"/>
 
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"></div><br/>
 
 ### |*My Contributions*|
 ![snake gif](https://github.com/Kamsi-yonna/Kamsi-yonna/blob/output/github-contribution-grid-snake.svg)
@@ -59,7 +61,4 @@ I recently began my web development journey and I am looking forward to meeting 
 <a href="https://www.buymeacoffee.com/kamsiyonna"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 
-### |*Git Portfolio*| 
-|<a href="https://kamsi-yonna.github.io/UrbanFashionSite/"> URBAN_FASHION_STORE </a> | <a href="https://kamsi-yonna.github.io/SMI-Hover-effect/"> SMI_HOVER_EFFECT </a>|
-|-- | -- |
-|<img  align="left"  width="380px" src="https://github.com/Kamsi-yonna/UrbanFashionSite/blob/main/urban.png">   | <img  align="left"  width="380px" src="https://kamsi-yonna.github.io/SMI-Hover-effect/smi.png"/>
+
