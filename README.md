@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Etiobi Kamsiyonna
 =========================================================================================================================================
 
-Web Developer & Designer
+### |Web Developer & Designer|
 ------------------------
 
 I am a self-motivated designer with a passion for learning and a desire to create functional user friendly websites that meet client specifications.
@@ -10,10 +10,14 @@ I am a self-motivated designer with a passion for learning and a desire to creat
 *   ✉️  You can contact me at [etiobikamsi@gmail.com](mailto:etiobikamsi@gmail.com)
 *   🧠  I'm learning Ultimate Web Designer & Web Developer Course by Brad Hussey
 *   🤝  I'm open to collaborating on All kinds of Projects
-*   ⚡  I am an architect and interior designer. I am deeply passionate about solving problems with design.
-<a href="https://www.github.com/kamsiyonna" target="_blank" rel="noreferrer"><img
+*   ⚡  I am also an architect and interior designer. I am deeply passionate about solving problems with design.
+ 
+  <br> 
+ <a href="https://www.github.com/kamsiyonna" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/github/followers/kamsiyonna?logo=github&style=for-the-badge&color=64748b&labelColor=0f172a" /></a> 
-                  <br>                  
+                  <br>  
+
+### |*Languages*|
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
@@ -26,11 +30,13 @@ I am a self-motivated designer with a passion for learning and a desire to creat
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" width="36" height="36" alt="Illustrator" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-Socials
+
+### |*Socials*|
+
 <p align="left"> <a href="https://www.behance.com/kamsiyonna" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://www.github.com/kamsiyonna" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/1kamsiyonna" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 
-### Badges
+### |*Badges*|
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/kamsiyonna"><img src="https://github-readme-stats.vercel.app/api?username=kamsiyonna&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=14b8a6&icon_color=64748b&bg_color=0f172a&hide_border=true&show_icons=true" alt="kamsiyonna's GitHub stats" /></a>
@@ -41,15 +47,20 @@ Socials
 
 <a href="https://github.com/kamsiyonna" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamsiyonna&langs_count=10&title_color=ffffff&text_color=14b8a6&icon_color=64748b&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+### |*Top Repositories*|
 <b>Top Repositories</b>
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
 
-
-### My Contributions
+### |*My Contributions*|
 ![snake gif](https://github.com/Kamsi-yonna/Kamsi-yonna/blob/output/github-contribution-grid-snake.svg)
 
-### Support Me
-
+### |*Support Me*|
 <a href="https://www.buymeacoffee.com/kamsiyonna"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+
+### <a href="https://kamsi-yonna.github.io/SMI-Hover-effect/"> *Website pessoal* </a>
+|URBAN_FASHION_STORE | SMI_HOVER_EFFECT |
+|-- | -- |
+|<img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda.github.io/blob/master/website/1.png"/>   | <img  align="left"  width="380px" src="https://kamsi-yonna.github.io/SMI-Hover-effect/smi.png"/>
 
