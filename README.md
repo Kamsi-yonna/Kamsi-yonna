@@ -59,8 +59,7 @@ I am a self-motivated designer with a passion for learning and a desire to creat
 <a href="https://www.buymeacoffee.com/kamsiyonna"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 
-### <a href="https://kamsi-yonna.github.io/SMI-Hover-effect/"> *Website pessoal* </a>
-|URBAN_FASHION_STORE | SMI_HOVER_EFFECT |
+### |*Git Portfolio*| 
+|<a href="https://kamsi-yonna.github.io/UrbanFashionSite/"> URBAN_FASHION_STORE </a> | <a href="https://kamsi-yonna.github.io/SMI-Hover-effect/"> SMI_HOVER_EFFECT </a>|
 |-- | -- |
-|<img  align="left"  width="380px" src="https://github.com/developer-fernanda/developer-fernanda.github.io/blob/master/website/1.png"/>   | <img  align="left"  width="380px" src="https://kamsi-yonna.github.io/SMI-Hover-effect/smi.png"/>
-
+|<img  align="left"  width="380px" src="https://github.com/Kamsi-yonna/UrbanFashionSite/blob/main/urban.png">   | <img  align="left"  width="380px" src="https://kamsi-yonna.github.io/SMI-Hover-effect/smi.png"/>
