@@ -58,7 +58,7 @@ I recently began my web development journey and I am looking forward to meeting 
 ![snake gif](https://github.com/Kamsi-yonna/Kamsi-yonna/blob/output/github-contribution-grid-snake.svg)
 
 ### |*Support Me*|
-<a href="https://www.buymeacoffee.com/kamsiyonna"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+<a href="https://www.buymeacoffee.com/kamsi.yonna"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 
 
