@@ -18,6 +18,7 @@ I recently began my web development journey and I am looking forward to meeting 
                   <br>  
 
 ### |*Languages*|
+------------------------
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
@@ -32,11 +33,13 @@ I recently began my web development journey and I am looking forward to meeting 
 </p>
 
 ### |*Socials*|
+------------------------
 
 <p align="left"> <a href="https://www.behance.com/kamsiyonna" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://www.github.com/kamsiyonna" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/1kamsiyonna" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 
 ### |*Badges*|
+------------------------
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/kamsiyonna"><img src="https://github-readme-stats.vercel.app/api?username=kamsiyonna&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=14b8a6&icon_color=64748b&bg_color=0f172a&hide_border=true&show_icons=true" alt="kamsiyonna's GitHub stats" /></a>
@@ -48,6 +51,7 @@ I recently began my web development journey and I am looking forward to meeting 
 <a href="https://github.com/kamsiyonna" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamsiyonna&langs_count=10&title_color=ffffff&text_color=14b8a6&icon_color=64748b&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### |*Git Portfolio*| 
+------------------------
 |<a href="https://kamsi-yonna.github.io/UrbanFashionSite/"> URBAN_FASHION_STORE </a> | <a href="https://kamsi-yonna.github.io/SMI-Hover-effect/"> SMI_HOVER_EFFECT </a>|
 |-- | -- |
 |<img  align="left"  width="380px" src="https://github.com/Kamsi-yonna/UrbanFashionSite/blob/main/urban.png">   | <img  align="left"  width="380px" src="https://kamsi-yonna.github.io/SMI-Hover-effect/smi.png"/>
@@ -55,9 +59,11 @@ I recently began my web development journey and I am looking forward to meeting 
 <div width="100%" align="center"></div><br/>
 
 ### |*My Contributions*|
+------------------------
 ![snake gif](https://github.com/Kamsi-yonna/Kamsi-yonna/blob/output/github-contribution-grid-snake.svg)
 
 ### |*Support Me*|
+------------------------
 <a href="https://www.buymeacoffee.com/kamsi.yonna"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 
