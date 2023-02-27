@@ -44,7 +44,7 @@ I recently began my web development journey and I am looking forward to meeting 
 
 <a href="http://www.github.com/kamsiyonna"><img src="https://github-readme-stats.vercel.app/api?username=kamsiyonna&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=14b8a6&icon_color=64748b&bg_color=0f172a&hide_border=true&show_icons=true" alt="kamsiyonna's GitHub stats" /></a>
 
-<a href="http://www.github.com/kamsiyonna"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kamsiyonna&stroke=14b8a6&background=0f172a&ring=ffffff&fire=ffffff&currStreakNum=14b8a6&currStreakLabel=ffffff&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
+<a href="http://www.github.com/kamsiyonna"><img src="https://github-readme-streak-stats.herokuapp.com?user=kamsi-yonna&theme=github-dark-blue" /></a>
 
 <a href="http://www.github.com/kamsiyonna"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=kamsiyonna&bg_color=0f172a&color=14b8a6&line=64748b&point=14b8a6&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
