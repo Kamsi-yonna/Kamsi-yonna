@@ -56,9 +56,9 @@ I recently began my web development journey and I am looking forward to meeting 
 |-- | -- |
 |<img  align="left"  width="380px" src="https://github.com/Kamsi-yonna/UrbanFashionSite/blob/main/urban.png">   | <img  align="left"  width="380px" src="https://kamsi-yonna.github.io/SMI-Hover-effect/smi.png"/>
 
-|<a href="https://kamsi-yonna.github.io/SMI_Animation/"> SMI_Animation </a> | | 
+|<a href="https://kamsi-yonna.github.io/SMI_Animation/"> SMI_Animation </a> | <a href="https://kamsi-yonna.github.io/flicker/">FLICKER </a>|
 |-- | -- |
-|<img  align="left"  width="380px" src="https://kamsi-yonna.github.io/SMI_Animation/SMI Animation.png">   | 
+|<img  align="left"  width="380px" src="https://kamsi-yonna.github.io/SMI_Animation/SMI Animation.png">   | <img  align="left"  width="380px" src="https://kamsi-yonna.github.io/flicker/flicker.png"/>
 
 
 <div width="100%" align="center"></div><br/>
