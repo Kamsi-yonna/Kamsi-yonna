@@ -70,6 +70,3 @@ I recently began my web development journey and I am looking forward to meeting 
 ### |*Support Me*|
 ------------------------
 <a href="https://www.buymeacoffee.com/kamsi.yonna"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
-
-
