@@ -72,9 +72,9 @@ I recently began my web development journey and I am looking forward to meeting 
 |-- | -- |
 |<img  align="left"  width="380px" src="https://kamsi-yonna.github.io/Crypto-Homepage/preview.png">  |  <img  align="left"  width="380px" src="https://kamsi-yonna.github.io/MobileDisplay/preview.png"/> 
 
-|<a href="https://kamsi-yonna.github.io/togglebutton/"> Toggle_Button </a> |  |
+|<a href="https://kamsi-yonna.github.io/togglebutton/"> Toggle_Button </a> | <a href="https://kamsi-yonna.github.io/TheTipCalculator/">The Tip Calculator</a> |
 |-- | -- |
-|<img  align="left"  width="380px" src="https://kamsi-yonna.github.io/togglebutton/Preview.png">  | |
+|<img  align="left"  width="380px" src="https://kamsi-yonna.github.io/togglebutton/Preview.png">  | <img  align="left"  width="380px" src="https://kamsi-yonna.github.io/TheTipCalculator/preview.png"/> |
 
 
 <div width="100%" align="center"></div><br/>
