@@ -80,11 +80,13 @@ I recently began my web development journey and I am looking forward to meeting 
 |-- | -- |
 |<img  align="left"  width="380px" src="https://kamsi-yonna.github.io/Nike_Homepage/preview.png">  | <img  align="left"  width="380px" src="https://kamsi-yonna.github.io/Image_Slider/preview.png"/> |
 
-|<a href="https://kamsi-yonna.github.io/Gallery/">Gallery</a> |  |
+|<a href="https://kamsi-yonna.github.io/Gallery/">Gallery</a> | <a href="https://kamsi-yonna.github.io/withtraversky/">withtraversky</a> |
 |-- | -- |
-|<img  align="left"  width="380px" src="https://kamsi-yonna.github.io/Gallery/preview.PNG">  |  |
+|<img  align="left"  width="380px" src="https://kamsi-yonna.github.io/Gallery/preview.PNG">  | <img  align="left"  width="380px" src="https://kamsi-yonna.github.io/withtraversky/preview.png"/> | 
 
 
+
+withtraversky
 <div width="100%" align="center"></div><br/>
 
 ------------------------
