@@ -84,9 +84,11 @@ I recently began my web development journey and I am looking forward to meeting 
 |-- | -- |
 |<img  align="left"  width="380px" src="https://kamsi-yonna.github.io/Gallery/preview.PNG">  | <img  align="left"  width="380px" src="https://kamsi-yonna.github.io/withtraversky/preview.png"/> | 
 
+|<a href="https://guessking.netlify.app/">GuessKing</a> | <a href="https://numbre.netlify.app/">Numbre</a> |
+|-- | -- |
+|<img  align="left"  width="380px" src="https://github.com/Kamsi-yonna/Guess/blob/main/img/preview.png">  | <img  align="left"  width="380px" src="https://github.com/Kamsi-yonna/Numbre/blob/main/img/preview.png"/> | 
 
 
-withtraversky
 <div width="100%" align="center"></div><br/>
 
 ------------------------
