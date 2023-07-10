@@ -9,7 +9,7 @@ I recently began my web development journey and I am looking forward to meeting 
 
 *   🧠  I'm currently learning Ultimate Web Designer & Web Developer Course by Brad Hussey
 *   ⚡  I am also an architect and interior designer and I am deeply passionate about solving problems with design.
-*   🤝  I'm open to collaborating on All kinds of Projects.
+*   🤝  I'm open to collaborating on front-end web development Projects.
 *   ✉️  You can contact me at [etiobikamsi@gmail.com](mailto:etiobikamsi@gmail.com)
 
 <br>  
