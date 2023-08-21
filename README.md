@@ -81,9 +81,9 @@ src="https://img.shields.io/github/followers/kamsi-yonna?logo=github&style=for-t
 |-- | -- |
 |<img  align="left"  width="380px" src="https://kamsi-yonna.github.io/Nike_Homepage/preview.png">  | <img  align="left"  width="380px" src="https://kamsi-yonna.github.io/Image_Slider/preview.png"/> |
 
-|<a href="https://kamsi-yonna.github.io/Gallery/">Gallery</a>  | <a href="https://task-king.netlify.app/">Todd App</a> |
+|<a href="https://kamsi-yonna.github.io/Gallery/">Gallery</a>  | <a href="https://task-king.netlify.app/">Task King</a> |
 |-- | -- |
-|<img  align="left"  width="380px" src="https://kamsi-yonna.github.io/Gallery/preview.PNG">   | <img  align="left"  width="380px" src="https://github.com/Kamsi-yonna/finalTodoApp/blob/main/preview.png"/> |  
+|<img  align="left"  width="380px" src="https://kamsi-yonna.github.io/Gallery/preview.PNG">   | <img  align="left"  width="380px" src="https://github.com/Kamsi-yonna/tailwind-todoapp/blob/main/preview.png"/> |  
 
 |<a href="https://guessking.netlify.app/">GuessKing</a> | <a href="https://numbre.netlify.app/">Numbre</a> |
 |-- | -- |
