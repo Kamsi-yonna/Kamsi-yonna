@@ -56,23 +56,13 @@ src="https://img.shields.io/github/followers/kamsi-yonna?logo=github&style=for-t
 
 ### |*Git Portfolio*| 
 ------------------------
-|<a href="https://kamsi-yonna.github.io/UrbanFashionSite/"> URBAN_FASHION_STORE </a> | <a href="https://kamsi-yonna.github.io/SMI-Hover-effect/"> SMI_HOVER_EFFECT </a>|
+|<a href="https://kamsi-yonna.github.io/SMI-Hover-effect/"> SMI_HOVER_EFFECT </a> | <a href="https://kamsi-yonna.github.io/flicker/">FLICKER </a> |
 |-- | -- |
-|<img  align="left"  width="380px" src="https://github.com/Kamsi-yonna/UrbanFashionSite/blob/main/urban.png">   | <img  align="left"  width="380px" src="https://kamsi-yonna.github.io/SMI-Hover-effect/smi.png"/>
+| <img  align="left"  width="380px" src="https://kamsi-yonna.github.io/SMI-Hover-effect/smi.png"/> |  <img  align="left"  width="380px" src="https://kamsi-yonna.github.io/flicker/flicker.png"/> |
 
-|<a href="https://kamsi-yonna.github.io/SMI_Animation/"> SMI_Animation </a> | <a href="https://kamsi-yonna.github.io/flicker/">FLICKER </a>|
+| <a href="https://kamsi-yonna.github.io/Teams/">Teams_Hover_Effect </a> | <a href="https://kamsi-yonna.github.io/Gallery/">Gallery</a>  |
 |-- | -- |
-|<img  align="left"  width="380px" src="https://kamsi-yonna.github.io/SMI_Animation/SMI Animation.png">   | <img  align="left"  width="380px" src="https://kamsi-yonna.github.io/flicker/flicker.png"/>
-
-
-|<a href="https://kamsi-yonna.github.io/AirplaneSite/"> Travel_Landing_Page </a> | <a href="https://kamsi-yonna.github.io/Teams/">Teams_Hover_Effect </a> |
-|-- | -- |
-|<img  align="left"  width="380px" src="https://kamsi-yonna.github.io/AirplaneSite/background.png">   |  <img  align="left"  width="380px" src="https://kamsi-yonna.github.io/Teams/preview.png"/>
-
-
-|<a href="https://kamsi-yonna.github.io/Crypto-Homepage/"> Crypto_Landing_Page </a> | <a href="https://kamsi-yonna.github.io/MobileDisplay/">Mobile_Display</a> |
-|-- | -- |
-|<img  align="left"  width="380px" src="https://kamsi-yonna.github.io/Crypto-Homepage/preview.png">  |  <img  align="left"  width="380px" src="https://kamsi-yonna.github.io/MobileDisplay/preview.png"/> 
+| <img  align="left"  width="380px" src="https://kamsi-yonna.github.io/Teams/preview.png"/> | <img  align="left"  width="380px" src="https://kamsi-yonna.github.io/Gallery/preview.PNG">   |
 
 |<a href="https://kamsi-yonna.github.io/togglebutton/"> Toggle_Button </a> | <a href="https://kamsi-yonna.github.io/TheTipCalculator/">The Tip Calculator</a> |
 |-- | -- |
@@ -81,10 +71,6 @@ src="https://img.shields.io/github/followers/kamsi-yonna?logo=github&style=for-t
 |<a href="https://kamsi-yonna.github.io/Nike_Homepage/"> Nike_Homepage</a> | <a href="https://kamsi-yonna.github.io/Image_Slider/">Image_Slider</a> |
 |-- | -- |
 |<img  align="left"  width="380px" src="https://kamsi-yonna.github.io/Nike_Homepage/preview.png">  | <img  align="left"  width="380px" src="https://kamsi-yonna.github.io/Image_Slider/preview.png"/> |
-
-|<a href="https://kamsi-yonna.github.io/Gallery/">Gallery</a>  | <a href="https://task-king.netlify.app/">Task King</a> |
-|-- | -- |
-|<img  align="left"  width="380px" src="https://kamsi-yonna.github.io/Gallery/preview.PNG">   | <img  align="left"  width="380px" src="https://github.com/Kamsi-yonna/tailwind-todoapp/blob/main/preview.png"/> |  
 
 |<a href="https://guessking.netlify.app/">GuessKing</a> | <a href="https://numbre.netlify.app/">Numbre</a> |
 |-- | -- |
