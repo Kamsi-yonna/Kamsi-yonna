@@ -7,9 +7,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a self-motivated designer & developer with a passion for learning and a desire to create functional user friendly websites that meet client specifications.
 I recently began my web development journey and I am looking forward to meeting new people here, learning and collaborating on all kinds of projects.
 
-*   🧠  I'm currently learning Ultimate Web Designer & Web Developer Course by Brad Hussey (I'm done with this but I'd leave it here😉)
-*   ⚡  I am also an architect and interior designer and I am deeply passionate about solving problems with design.
+*   🧠  I'm currently working as a frontend Engineer at [check](check-dc.com)
+*   🛠   My stack includes Nuxt(vue.js), typescript & tailwind.css.
 *   🤝  I'm open to collaborating on front-end web development Projects.
+*   ⚡  I am also an architect and interior designer and I am deeply passionate about solving problems with design.
 *   ✉️  You can contact me at [etiobikamsi@gmail.com](mailto:etiobikamsi@gmail.com)
 
 <br>  
