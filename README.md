@@ -13,9 +13,11 @@ I recently began my web development journey and I am looking forward to meeting 
 *   ✉️  You can contact me at [etiobikamsi@gmail.com](mailto:etiobikamsi@gmail.com)
 
 <br>  
-<a href="https://www.github.com/kamsi-yonna" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/kamsi-yonna?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+ <a href="https://www.github.com/kamsi-yonna" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/kamsi-yonna?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>  <a href="https://www.github.com/kamsi-yonna" target="_blank" rel="noreferrer"><img
+src="https://komarev.com/ghpvc/?username=kamsi-yonna&style=for-the-badge&color=0891b2&labelColor=blue" /></a> 
 <br> 
+
 
 
 ### |*Languages*|
