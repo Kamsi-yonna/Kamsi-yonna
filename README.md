@@ -43,9 +43,8 @@ src="https://komarev.com/ghpvc/?username=kamsi-yonna&style=for-the-badge&color=0
 <p align="left"> <a href="https://www.behance.com/kamsiyonna" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://www.github.com/Kamsi-yonna" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/1kamsiyonna" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/@kamsi_yonna" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
 
-### |*Badges*|
+### |*GitHub Stats*|
 ------------------------
-<b>My GitHub Stats</b>
 
 <a href="http://www.github.com/kamsi-yonna">
 <img src="https://github-readme-stats.vercel.app/api?username=kamsi-yonna&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=ffffff&bg_color=0f172a&hide_border=true&show_icons=true" alt="kamsi-yonna's GitHub stats" />
