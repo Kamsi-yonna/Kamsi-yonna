@@ -84,7 +84,7 @@ src="https://komarev.com/ghpvc/?username=kamsi-yonna&style=for-the-badge&color=0
 
 ### |*My Contributions*|
 ------------------------
-![snake gif](https://github.com/Kamsi-yonna/Kamsi-yonna/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Kamsi-yonna/Kamsi-yonna/blob/output/github-contribution-grid-snake.gif)
 
 ### |*Support Me*|
 ------------------------
