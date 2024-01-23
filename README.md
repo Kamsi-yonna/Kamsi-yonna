@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a self-motivated designer & developer with a passion for learning and a desire to create functional user friendly websites that meet client specifications.
 I recently began my web development journey and I am looking forward to meeting new people here, learning and collaborating on all kinds of projects.
 
-*   🧠  I'm currently working as a frontend Engineer at <a href="https://check-dc.com/">Check</a>.
+*   🧠  I'm currently working as a junior software engineer at <a href="https://check-dc.com/">Check</a>.
 *   🛠   My stack includes Nuxt(vue.js), typescript & tailwind.css.
 *   🤝  I'm open to collaborating on front-end web development Projects.
 *   ⚡  I am also an architect and interior designer and I am deeply passionate about solving problems with design.
