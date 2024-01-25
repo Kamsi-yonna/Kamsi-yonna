@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### |Web Developer & Designer|
 ------------------------
 
-I am a self-motivated designer & developer with a passion for learning and a desire to create functional user friendly websites that meet client specifications.
+I am a self-motivated designer & developer with a passion for learning and a simple desire to solve problems.
 I recently began my web development journey and I am looking forward to meeting new people here, learning and collaborating on all kinds of projects.
 
 *   🧠  I'm currently working as a junior software engineer at <a href="https://check-dc.com/">Check</a>.
