@@ -48,7 +48,7 @@ src="https://komarev.com/ghpvc/?username=kamsi-yonna&style=for-the-badge&color=0
 
 
 
-### |*Git Portfolio*| 
+### |*Playground*| 
 ------------------------
 |<a href="https://kamsi-yonna.github.io/SMI-Hover-effect/"> SMI_HOVER_EFFECT </a> | <a href="https://kamsi-yonna.github.io/flicker/">FLICKER </a> |
 |-- | -- |
