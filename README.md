@@ -1,11 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Etiobi Kamsiyonna
 =========================================================================================================================================
 
-### |Web Developer & Designer|
+### |Software Engineer|
 ------------------------
 
-I am a self-motivated designer & developer with a passion for learning and a simple desire to solve problems.
-I recently began my web development journey and I am looking forward to meeting new people here, learning and collaborating on all kinds of projects.
+I am a self-motivated designer & engineer with a passion for learning and a simple desire to solve problems.
+I am looking forward to meeting new people here, learning and collaborating on all kinds of projects.
 
 *   🧠  I'm currently working as a junior software engineer at <a href="https://check-dc.com/">Check</a>.
 *   🛠   My stack includes Nuxt(vue.js), typescript & tailwind.css.
