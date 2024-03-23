@@ -12,6 +12,7 @@ I am looking forward to meeting new people here, learning and collaborating on a
 *   🤝  I'm open to collaborating on front-end web development Projects.
 *   ⚡  I am also an architect and interior designer and I am deeply passionate about solving problems with design.
 *   ✉️  You can send me an <a href="mailto:etiobikamsi@gmail.com">email</a>.
+*   👀  I am slowly realising that I may be interested in Open source contributions more than anything 😅.
 
 <br>  
 <a href="https://github.com/Kamsi-yonna?tab=followers" target="_blank" rel="noreferrer"><img
