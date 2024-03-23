@@ -15,8 +15,7 @@ I am looking forward to meeting new people here, learning and collaborating on a
 
 <br>  
 <a href="https://github.com/Kamsi-yonna?tab=followers" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/kamsi-yonna?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>  <a href="https://www.github.com/kamsi-yonna" target="_blank" rel="noreferrer"><img
-src="https://komarev.com/ghpvc/?username=kamsi-yonna&style=for-the-badge&color=0891b2&labelColor=blue" /></a> 
+src="https://img.shields.io/github/followers/kamsi-yonna?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> 
 <br> 
 
 
