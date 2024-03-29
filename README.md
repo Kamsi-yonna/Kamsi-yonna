@@ -8,11 +8,13 @@ I am a self-motivated designer & engineer with a passion for learning and a simp
 I am looking forward to meeting new people here, learning and collaborating on all kinds of projects.
 
 *   🧠  I'm currently working as a software engineer at <a href="https://check-dc.com/">Check</a>.
-*   🛠   My stack includes Nuxt(vue.js), typescript & tailwind.css.
+*   🛠   My stack includes Nuxt(vue.js), typescript & tailwind.css. 
+*   💻   Learning to build <a href="https://astro.build/">With Astrok</a>.
 *   🤝  I'm open to collaborating on front-end web development Projects.
 *   ⚡  I am also an architect and interior designer and I am deeply passionate about solving problems with design.
 *   ✉️  You can send me an <a href="mailto:etiobikamsi@gmail.com">email</a>.
 *   👀  I am slowly realising that I may be interested in Open source contributions more than anything 😅.
+
 
 <br>  
 <a href="https://github.com/Kamsi-yonna?tab=followers" target="_blank" rel="noreferrer"><img
