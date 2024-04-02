@@ -59,10 +59,6 @@ src="https://img.shields.io/github/followers/kamsi-yonna?logo=github&style=for-t
 |-- | -- |
 |<img  align="left"  width="380px" src="https://kamsi-yonna.github.io/Image_Slider/preview.png"/> | <img  align="left"  width="380px" src="https://kamsi-yonna.github.io/TheTipCalculator/preview.png"/> |
 
-|<a href="https://kamsi-yonna.github.io/Nike_Homepage/"> Nike_Homepage</a> | <a  href="https://nigerian-mockup.netlify.app/">Nigerian Mockups Clone</a> |
-|-- | -- |
-|<img  align="left"  width="380px" src="https://kamsi-yonna.github.io/Nike_Homepage/preview.png"> | <img align="left" width="380px" src="https://github.com/Kamsi-yonna/nigerian-mockups/blob/main/assets/images/preview.png"> |
-
 |<a href="https://guessking.netlify.app/">GuessKing</a> | <a href="https://numbre.netlify.app/">Numbre</a> |
 |-- | -- |
 |<img  align="left"  width="380px" src="https://github.com/Kamsi-yonna/Guess/blob/main/img/preview.png"> | <img  align="left"  width="380px" src="https://github.com/Kamsi-yonna/Numbre/blob/main/img/preview.png"/> | 
