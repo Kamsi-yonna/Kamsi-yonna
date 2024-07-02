@@ -51,7 +51,7 @@ src="https://img.shields.io/github/followers/kamsi-yonna?logo=github&style=for-t
 ### |*Playground*| 
 ------------------------
 
-| <a href="https://travelme-kam.netlify.app/">TravelMe</a> | <a href="https://kamsi-yonna.github.io/Gallery/">Gallery</a>  |
+| <a href="https://travelme-kam.netlify.app/" target="_blank">TravelMe</a> | <a href="https://kamsi-yonna.github.io/Gallery/">Gallery</a>  |
 |-- | -- |
 | <img  align="left"  width="380px" src="https://github.com/Kamsi-yonna/traveler/blob/main/assets/images/preview.jpeg"/> | <img  align="left"  width="380px" src="https://kamsi-yonna.github.io/Gallery/preview.PNG">   |
 
