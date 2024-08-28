@@ -46,6 +46,10 @@ src="https://img.shields.io/github/followers/kamsi-yonna?logo=github&style=for-t
 </a>
 <a href="https://github.com/kamsi-yonna" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamsi-yonna&langs_count=10&layout=compact&title_color=3382ed&text_color=ffffff&icon_color=ffffff&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages&card_width=420" alt="Top Languages" /></a>
 
+### |*GitHub Stats*|
+------------------------
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Kamsi-yonna?theme=transparent&font=Hind%20Madurai)
 
 ### |*Playground*| 
 ------------------------
