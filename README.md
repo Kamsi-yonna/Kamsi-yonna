@@ -7,7 +7,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a self-motivated designer & engineer with a passion for learning and a simple desire to solve problems.
 I am looking forward to meeting new people here, learning and collaborating on all kinds of projects.
 
-*   🧠  I'm currently working as a software engineer at <a href="https://check-dc.com/">Check</a>.
 *   🛠   My stack includes Nuxt(vue.js), Astro, Typescript & Tailwind.css. 
 *   🤝  I'm open to collaborating on front-end web development Projects.
 *   ⚡  I am also an architect and interior designer and I am deeply passionate about solving problems with design.
