@@ -54,7 +54,7 @@ src="https://img.shields.io/github/followers/kamsi-yonna?logo=github&style=for-t
 
 |<a href="https://fyrre-mag.webflow.io/" target="_blank">Fyree Mag</a>|<a href="https://travelme-kam.netlify.app/" target="_blank">TravelMe</a>|
 |-- | --|
-|<img  align="left"  width="380px" src="https://github.com/Kamsi-yonna/Kamsi-yonna/blob/main/fyree-mag_preview.png"/>|<img  align="left"  width="380px" src="https://github.com/Kamsi-yonna/Kamsi-yonna/blob/main/travelme-preview.png"/>|
+|<img  align="left"  width="380px" src="https://github.com/Kamsi-yonna/Kamsi-yonna/blob/main/fyree-mag_preview.png"/>|<img  align="left"  width="380px" src="https://github.com/Kamsi-yonna/Kamsi-yonna/blob/main/travelme-preview.jpeg"/>|
 
 |<a href="https://hayes-kamsiyonna.webflow.io/">Hayes-valley</a>|<a href="https://calendar-kamsiyonna.webflow.io/">Calender</a>|
 |-- | -- |
