@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I am a self-motivated designer & engineer with a passion for learning and a simple desire to solve problems.
 I am looking forward to meeting new people here, learning and collaborating on all kinds of projects.
 
-*   🛠   My stack includes Nuxt(vue.js), Astro, Typescript & Tailwind.css. 
+*   🛠   My stack includes Webflow, Nuxt(vue.js), Astro, Typescript & Tailwind.css. 
 *   🤝  I'm open to collaborating on front-end web development Projects.
 *   ⚡  I am also an architect and interior designer and I am deeply passionate about solving problems with design.
 *   ✉️  You can send me an <a href="mailto:etiobikamsi@gmail.com">email</a>.
@@ -18,7 +18,6 @@ I am looking forward to meeting new people here, learning and collaborating on a
 <a href="https://github.com/Kamsi-yonna?tab=followers" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/kamsi-yonna?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> 
 <br> 
-
 
 
 ### |*Languages*|
