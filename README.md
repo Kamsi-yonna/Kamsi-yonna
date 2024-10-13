@@ -51,19 +51,19 @@ src="https://img.shields.io/github/followers/kamsi-yonna?logo=github&style=for-t
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Kamsi-yonna?theme=transparent&font=Hind%20Madurai)
 
 ### |*Playground*| 
-------------------------
+-------------------
 
-|  |<a href="https://travelme-kam.netlify.app/" target="_blank">TravelMe</a>  |
-|-- | -- |
-|  | <img  align="left"  width="380px" src="https://github.com/Kamsi-yonna/traveler/blob/main/assets/images/preview.jpeg"/> |
+|<a href="https://fyrre-mag.webflow.io/" target="_blank">TravelMe</a>|<a href="https://travelme-kam.netlify.app/" target="_blank">TravelMe</a>|
+|-- | --|
+|<img  align="left"  width="380px" src="https://github.com/Kamsi-yonna/fyree-mag/blob/main/preview.png"/>|<img  align="left"  width="380px" src="https://github.com/Kamsi-yonna/traveler/blob/main/assets/images/preview.jpeg"/>|
 
-| <a href="https://kamsi-yonna.github.io/Gallery/">Gallery</a> |<a href="https://kamsi-yonna.github.io/Image_Slider/">Image_Slider</a> |
+|<a href="https://kamsi-yonna.github.io/Gallery/">Gallery</a>|<a href="https://kamsi-yonna.github.io/Image_Slider/">Image_Slider</a>|
 |-- | -- |
-|<img  align="left"  width="380px" src="https://kamsi-yonna.github.io/Gallery/preview.PNG"> |<img  align="left"  width="380px" src="https://kamsi-yonna.github.io/Image_Slider/preview.png"/>  |
+|<img  align="left"  width="380px" src="https://kamsi-yonna.github.io/Gallery/preview.PNG">|<img  align="left"  width="380px" src="https://kamsi-yonna.github.io/Image_Slider/preview.png"/>|
 
-|<a href="https://kamsi-yonna.github.io/TheTipCalculator/">The Tip Calculator</a> | <a href="https://guessking.netlify.app/">GuessKing</a> |
+|<a href="https://kamsi-yonna.github.io/TheTipCalculator/">The Tip Calculator</a>|<a href="https://guessking.netlify.app/">GuessKing</a>|
 |-- | -- |
-|<img  align="left"  width="380px" src="https://kamsi-yonna.github.io/TheTipCalculator/preview.png"/> | <img  align="left"  width="380px" src="https://github.com/Kamsi-yonna/Guess/blob/main/img/preview.png"> | 
+|<img  align="left"  width="380px" src="https://kamsi-yonna.github.io/TheTipCalculator/preview.png"/>|<img  align="left"  width="380px" src="https://github.com/Kamsi-yonna/Guess/blob/main/img/preview.png">| 
 
 
 <div width="100%" align="center"></div><br/>
