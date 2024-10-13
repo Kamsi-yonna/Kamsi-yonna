@@ -54,11 +54,11 @@ src="https://img.shields.io/github/followers/kamsi-yonna?logo=github&style=for-t
 
 |<a href="https://fyrre-mag.webflow.io/" target="_blank">Fyree Mag</a>|<a href="https://travelme-kam.netlify.app/" target="_blank">TravelMe</a>|
 |-- | --|
-|<img  align="left"  width="380px" src="https://github.com/Kamsi-yonna/fyree-mag/blob/main/preview.png"/>|<img  align="left"  width="380px" src="https://github.com/Kamsi-yonna/traveler/blob/main/assets/images/preview.jpeg"/>|
+|<img  align="left"  width="380px" src="https://github.com/Kamsi-yonna/Kamsi-yonna/blob/main/fyree-mag_preview.png"/>|<img  align="left"  width="380px" src="https://github.com/Kamsi-yonna/Kamsi-yonna/blob/main/travelme-preview.png"/>|
 
 |<a href="https://hayes-kamsiyonna.webflow.io/">Hayes-valley</a>|<a href="https://calendar-kamsiyonna.webflow.io/">Calender</a>|
 |-- | -- |
-|<img  align="left"  width="380px" src="https://github.com/Kamsi-yonna/hayes-valley/blob/main/preview.png">|<img  align="left"  width="380px" src="https://github.com/Kamsi-yonna/hayes-valley/blob/main/calendar-preview.png"/>|
+|<img  align="left"  width="380px" src="https://github.com/Kamsi-yonna/Kamsi-yonna/blob/main/hayes-valley_preview.png">|<img  align="left"  width="380px" src="https://github.com/Kamsi-yonna/Kamsi-yonna/blob/main/calendar-preview.png"/>|
 
 |<a href="https://kamsi-yonna.github.io/TheTipCalculator/">The Tip Calculator</a>|<a href="https://guessking.netlify.app/">GuessKing</a>|
 |-- | -- |
