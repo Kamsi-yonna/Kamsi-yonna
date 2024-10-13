@@ -57,13 +57,13 @@ src="https://img.shields.io/github/followers/kamsi-yonna?logo=github&style=for-t
 |-- | -- |
 | <img  align="left"  width="380px" src="https://github.com/Kamsi-yonna/traveler/blob/main/assets/images/preview.jpeg"/> | <img  align="left"  width="380px" src="https://kamsi-yonna.github.io/Gallery/preview.PNG">   |
 
-|<a href="https://kamsi-yonna.github.io/Image_Slider/">Image_Slider</a> | <a href="https://kamsi-yonna.github.io/TheTipCalculator/">The Tip Calculator</a> |
+|<a href="https://kamsi-yonna.github.io/Image_Slider/">Image_Slider</a> |  |
 |-- | -- |
-|<img  align="left"  width="380px" src="https://kamsi-yonna.github.io/Image_Slider/preview.png"/> | <img  align="left"  width="380px" src="https://kamsi-yonna.github.io/TheTipCalculator/preview.png"/> |
+|<img  align="left"  width="380px" src="https://kamsi-yonna.github.io/Image_Slider/preview.png"/> |  |
 
-|<a href="https://guessking.netlify.app/">GuessKing</a> | <a href="https://numbre.netlify.app/">Numbre</a> |
+|<a href="https://kamsi-yonna.github.io/TheTipCalculator/">The Tip Calculator</a> | <a href="https://guessking.netlify.app/">GuessKing</a> |
 |-- | -- |
-|<img  align="left"  width="380px" src="https://github.com/Kamsi-yonna/Guess/blob/main/img/preview.png"> | <img  align="left"  width="380px" src="https://github.com/Kamsi-yonna/Numbre/blob/main/img/preview.png"/> | 
+|<img  align="left"  width="380px" src="https://kamsi-yonna.github.io/TheTipCalculator/preview.png"/> | <img  align="left"  width="380px" src="https://github.com/Kamsi-yonna/Guess/blob/main/img/preview.png"> | 
 
 
 <div width="100%" align="center"></div><br/>
