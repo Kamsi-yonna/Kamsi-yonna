@@ -53,13 +53,13 @@ src="https://img.shields.io/github/followers/kamsi-yonna?logo=github&style=for-t
 ### |*Playground*| 
 ------------------------
 
-| <a href="https://travelme-kam.netlify.app/" target="_blank">TravelMe</a> | <a href="https://kamsi-yonna.github.io/Gallery/">Gallery</a>  |
+|  |<a href="https://travelme-kam.netlify.app/" target="_blank">TravelMe</a>  |
 |-- | -- |
-| <img  align="left"  width="380px" src="https://github.com/Kamsi-yonna/traveler/blob/main/assets/images/preview.jpeg"/> | <img  align="left"  width="380px" src="https://kamsi-yonna.github.io/Gallery/preview.PNG">   |
+|  | <img  align="left"  width="380px" src="https://github.com/Kamsi-yonna/traveler/blob/main/assets/images/preview.jpeg"/> |
 
-|<a href="https://kamsi-yonna.github.io/Image_Slider/">Image_Slider</a> |  |
+| <a href="https://kamsi-yonna.github.io/Gallery/">Gallery</a> |<a href="https://kamsi-yonna.github.io/Image_Slider/">Image_Slider</a> |
 |-- | -- |
-|<img  align="left"  width="380px" src="https://kamsi-yonna.github.io/Image_Slider/preview.png"/> |  |
+|<img  align="left"  width="380px" src="https://kamsi-yonna.github.io/Gallery/preview.PNG"> |<img  align="left"  width="380px" src="https://kamsi-yonna.github.io/Image_Slider/preview.png"/>  |
 
 |<a href="https://kamsi-yonna.github.io/TheTipCalculator/">The Tip Calculator</a> | <a href="https://guessking.netlify.app/">GuessKing</a> |
 |-- | -- |
