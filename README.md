@@ -53,7 +53,7 @@ src="https://img.shields.io/github/followers/kamsi-yonna?logo=github&style=for-t
 ### |*Playground*| 
 -------------------
 
-|<a href="https://fyrre-mag.webflow.io/" target="_blank">TravelMe</a>|<a href="https://travelme-kam.netlify.app/" target="_blank">TravelMe</a>|
+|<a href="https://fyrre-mag.webflow.io/" target="_blank">Fyree Mag</a>|<a href="https://travelme-kam.netlify.app/" target="_blank">TravelMe</a>|
 |-- | --|
 |<img  align="left"  width="380px" src="https://github.com/Kamsi-yonna/fyree-mag/blob/main/preview.png"/>|<img  align="left"  width="380px" src="https://github.com/Kamsi-yonna/traveler/blob/main/assets/images/preview.jpeg"/>|
 
