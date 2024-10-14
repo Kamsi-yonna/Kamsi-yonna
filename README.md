@@ -11,7 +11,7 @@ I am looking forward to meeting new people here, learning and collaborating on a
 *   🤝  I'm open to collaborating on front-end web development Projects.
 *   ⚡  I am also an architect and interior designer and I am deeply passionate about solving problems with design.
 *   ✉️  You can send me an <a href="mailto:etiobikamsi@gmail.com">email</a>.
-*   ♻️  Interested in Open source projects.
+*   ✍🏾  <a href="https://wearecheck.co/thoughts/from-blueprints-to-bugs">The last time I wrote<a>
 
 
 <br>  
