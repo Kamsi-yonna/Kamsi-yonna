@@ -4,12 +4,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### |Software Engineer|
 ------------------------
 
-I am a self-motivated designer & engineer with a passion for learning and a simple desire to solve problems.
-I am looking forward to meeting new people here, learning and collaborating on all kinds of projects.
+I am a self-motivated designer and frontend engineer with a passion for learning and a simple desire to solve problems through thoughtful design and code. I believe in the power of collaboration and am excited to connect with like-minded individuals here on GitHub.
 
 *   🛠   My stack includes Webflow, Nuxt(vue.js), Astro, Typescript & Tailwind.css. 
-*   🤝  I'm open to collaborating on front-end web development Projects.
-*   🏠  I am also an <a href="https://etiobikamsi.wixsite.com/kamsiyonna">architect & interior designer<a> and I am deeply passionate about solving problems with design.
+*   🏠  My background in <a href="https://etiobikamsi.wixsite.com/kamsiyonna">architecture & interior designer<a> informs my approach to web development, allowing me to create visually appealing and user-friendly interfaces.
+*   🤝  I'm open to collaborating on front-end web development Projects that prioritize user experience and innovative design solutions.
 *   ✉️  You can send me an <a href="mailto:etiobikamsi@gmail.com">email</a>.
 *   ✍🏾  <a href="https://wearecheck.co/thoughts/from-blueprints-to-bugs">The last time I wrote<a>
 
