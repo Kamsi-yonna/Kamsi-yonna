@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### |Software Engineer|
 ------------------------
 
-I am a self-motivated designer and frontend engineer with a passion for learning and a simple desire to solve problems through thoughtful design and code. I believe in the power of collaboration and am excited to connect with like-minded individuals here on GitHub.
+I am a self-motivated designer and frontend engineer with a passion for learning and a simple desire to solve problems through thoughtful design and code. I believe in the power of collaboration and I hope to connect with like-minded individuals here on GitHub.
 
 *   🛠   My stack includes Webflow, Nuxt(vue.js), Astro, Typescript & Tailwind.css. 
 *   🏠  My background in <a href="https://etiobikamsi.wixsite.com/kamsiyonna">architecture & interior designer<a> informs my approach to web development, allowing me to create visually appealing and user-friendly interfaces.
