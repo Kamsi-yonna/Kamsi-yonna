@@ -13,12 +13,6 @@ I am a self-motivated designer and frontend engineer with a passion for learning
 *   ✍🏾  <a href="https://wearecheck.co/thoughts/from-blueprints-to-bugs">The last time I wrote<a>
 
 
-<br>  
-<a href="https://github.com/Kamsi-yonna?tab=followers" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/kamsi-yonna?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a> 
-<br> 
-
-
 ### |*Languages*|
 ------------------------
 ### Skills
